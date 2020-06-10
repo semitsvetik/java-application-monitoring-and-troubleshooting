@@ -15,6 +15,7 @@ brew install ansible
 Update dependency roles
 -----------------------
 ```bash
+cd java-application-monitoring-and-troubleshooting/iaac
 ansible-galaxy install -r requirements.yml
 ```
 
