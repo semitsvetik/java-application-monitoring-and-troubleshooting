@@ -6,6 +6,11 @@ Install host dependencies [for MacOs only]
 ```bash
 brew install gnu-tar
 ```
+Install ansible
+---------------
+```
+brew install ansible
+```
 
 Update dependency roles
 -----------------------
